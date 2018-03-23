@@ -12,7 +12,7 @@ y = slope*x + intercept
 print(y)
 
 
-
+print(x)
 
 
 total_monthly_rent=1200.00
